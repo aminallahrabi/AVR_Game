@@ -1,0 +1,7 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"Game_defuse_Bomb.c" LINE:120
+key_pad DSTACK_USAGE:4 DSTACK_LEVEL:4 FILE:"Game_defuse_Bomb.c" LINE:35
+lcd_puts DSTACK_USAGE:3 DSTACK_LEVEL:7 FILE:"D:\install\CVR\lib\alcd.lib" LINE:279
+lcd_putchar DSTACK_USAGE:1 DSTACK_LEVEL:8 FILE:"D:\install\CVR\lib\alcd.lib" LINE:265
+lcd_gotoxy DSTACK_USAGE:2 DSTACK_LEVEL:10 FILE:"D:\install\CVR\lib\alcd.lib" LINE:247
+_lcd_write_data DSTACK_USAGE:1 DSTACK_LEVEL:11 FILE:"D:\install\CVR\lib\alcd.lib" LINE:161
+_lcd_write_nibble DSTACK_USAGE:1 DSTACK_LEVEL:12 FILE:"D:\install\CVR\lib\alcd.lib" LINE:139
